@@ -3,3 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 branch dev
 Creating a new branch is quick & simple.
+
